@@ -9,5 +9,5 @@ package studentlist;
  * @author sivagamasrinivasan
  */
 public class MarcusExample {
-    
+    private int grades;
 }
